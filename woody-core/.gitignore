@@ -1,0 +1,18 @@
+*.class
+*.iws
+*.iml
+.idea
+.classpath
+out/*
+logs/*
+tests/log/*
+.DS_Store
+*.swp
+*~
+.project
+.settings
+target
+# Package Files #
+*.jar
+*.war
+*.ear

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template xmlns="http://www.w3school.com.cn" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.w3school.com.cn ultraman-template.xsd">
+	<beans>
+		<bean class="" id="" status="valid">
+			<field name="" class="String">
+				<extract-group global-type="xpath" operator="and">
+					<parser expr="" type="" default-value value=""></parser>
+				</extract-group>
+
+			</field>
+			<field name="" class="String">
+				<parser expr="" type=""></parser>
+			</field>
+		</bean>
+	</beans>
+	<aliases>
+		<alias name="String" class="java.lang.String" />
+		<alias name="Boolean" class="java.lang.Boolean" />
+	</aliases>
+</template>
